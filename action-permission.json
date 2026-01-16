@@ -1,0 +1,8 @@
+{
+  "right_of_action": "permitted",
+  "execution": "not_invoked",
+  "decision": "not_forced",
+  "timing": "unspecified",
+  "authority": "non-local",
+  "presence_control": false
+}
